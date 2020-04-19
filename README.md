@@ -2,6 +2,11 @@
 
 Documentation for community
 
+[grafana-6.7.2](https://github.com/EstevesDouglas/grafana/blob/master/install/instrall-grafana-6.7.2)
+
+# Reference
+[Grafana](https://grafana.com/)
+
 # DataLog 
 - 09-April-2020 - update version 6.7.2 
 - 25-March-2020 - update version 6.7.1 
