@@ -2,7 +2,7 @@
 
 Documentation for community
 
-[grafana-6.7.2](https://github.com/EstevesDouglas/grafana/blob/master/install/instrall-grafana-6.7.2)
+[grafana-6.7.2 - Red Hat, CentOS, RHEL, and Fedora(64 Bit)](https://github.com/EstevesDouglas/grafana/blob/master/install/instrall-grafana-6.7.2)
 
 # Reference
 [Grafana](https://grafana.com/)
